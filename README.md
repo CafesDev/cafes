@@ -59,3 +59,12 @@ npm --version
     - solicitudes
 
 6. Ya te puedes conectar al servidor por localhost:3306 o 127.0.0.1:3306
+### Preferencias
+#### Utilizar Git Flow
+- Ejecuta: 
+    ```bash
+    git flow init    
+    ```
+    Utiliza las configuraciones por defecto
+
+
