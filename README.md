@@ -4,6 +4,12 @@
 
 Este es un proyecto Express básico que muestra cómo empezar con Express y Node.js.
 
+## Tecnologias utilizadas
+- Node JS
+- Express
+- Sequelize
+- MySQL
+
 ## Instalación
 
 Antes de ejecutar este proyecto, asegúrate de tener Node.js y npm instalados en tu sistema. Si no los tienes instalados, puedes seguir los siguientes pasos:
